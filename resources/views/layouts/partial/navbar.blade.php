@@ -64,6 +64,9 @@
                 <li class="nav-item">
                     <a class="nav-link" href="/player">Player</a>
                 </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/fixture">Fixtures</a>
+                </li>
             </ul>
         </div>
     </div>
